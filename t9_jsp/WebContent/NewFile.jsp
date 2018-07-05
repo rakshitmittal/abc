@@ -11,6 +11,7 @@
 <form action="frmSubmit.jsp" method="post">
 first no <input type="number" name="txtNum1"/><br>
 second no <input type="number" name="txtNum2"/><br>
+    third no<input type="number" name="txtNum3"/><br>
 <br>
 <input type="submit" value="submit"/>
 </form>
